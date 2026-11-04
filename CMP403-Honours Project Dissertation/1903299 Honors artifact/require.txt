@@ -1,0 +1,7 @@
+PySide6
+PyQt6
+pynput
+numpy
+joblib
+pandas
+scikit-learn = 1.3.0
